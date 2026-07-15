@@ -1,0 +1,9 @@
+name: WeatherMCP
+metadata:
+  template: weathermcp@0.0.1-beta
+services:
+  api:
+    project: ./src/WeatherMCP.API
+    host: function
+infra:
+  path: ./infra
