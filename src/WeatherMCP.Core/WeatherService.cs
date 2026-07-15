@@ -1,5 +1,5 @@
 namespace WeatherMCP.Core;
 
-public class WeatherCoreLibrary
+public class WeatherService
 {
 }
